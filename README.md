@@ -1,2 +1,3 @@
 # Onion-Omega-Current-Monitoring-
-enegry monitoring using Onion omega
+Current monitoring using Onion omega
+tested on onion omega 1
